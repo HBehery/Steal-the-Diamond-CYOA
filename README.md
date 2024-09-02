@@ -8,8 +8,7 @@ Tonight marks the first night of the country-wide Christmas holiday, and you can
 
 ![(Spoilers) Steal the Diamond Decision Flow Chart](CYOA-Flow_Chart.png)
 
-**NOTE**
-To make "CYOA-MUSIC.py" fully functional, make sure all of the 16 music files are in the "music" folder.
+> **_NOTE:_** To make "CYOA-MUSIC.py" fully functional, make sure all of the 16 music files are in the "music" folder.
 
 CYOA-MUSIC.py only works on Windows, so I've added a second one without music for players on different operating
 systems (CYOA-NO Music.py)
